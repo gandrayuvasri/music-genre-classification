@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "music genre classification",
+			"path": "."
+		},
+		{
+			"name": "Data",
+			"path": "../../../../Downloads/Data"
+		}
+	],
+	"settings": {}
+}
